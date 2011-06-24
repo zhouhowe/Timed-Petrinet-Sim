@@ -1,0 +1,16 @@
+# Example 2: Three Resources
+# Input 4: The set of all unsafe states
+# Note: The number of tokens in the operation places can unambiguously specify an unsafe state, so we only input the partial-marking on P_S
+# Places in the conventional order, i.e., p11, p12, p13, p14, p15, p21, p22, p23, p24, p25
+#
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1

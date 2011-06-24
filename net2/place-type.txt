@@ -1,0 +1,3 @@
+2	#idle place
+10	#operation place
+3	#resource place

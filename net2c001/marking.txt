@@ -1,0 +1,23 @@
+# Example 2: Three Resources (Controlled)
+# Input 2: Initial State, M_0 (a column vector)
+# Places in the conventional order, i.e., p01, p02, p11, p12, p13, p14, p15, p21, p22, p23, p24, p25, rA, rB, rC, pC1, pC2, pC3
+#
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+#
+#1
+#1
+1

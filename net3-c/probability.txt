@@ -1,0 +1,13 @@
+# Example 3: OpenLDAP
+# Input 5: The CDF associated with if/else branches
+#
+# No.1
+# The upstream place number, which has branch choices
+3
+# CDF
+0.5	1
+# No.2
+# The upstream place number, which has branch choices
+4
+# CDF
+0.5	1

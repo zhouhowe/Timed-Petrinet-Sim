@@ -1,0 +1,17 @@
+# Example 2: Three Resources
+# Input 3: Mean Parameters for the Exponential Distributions in each Idle place and Operation place (don't care Resource places)
+# Places in the conventional order, i.e., p01, p02, p11, p12, p13, p14, p15, p21, p22, p23, p24, p25
+# All the parameters can be changed for test purposes
+#
+0.5
+0.5
+1
+5
+3
+5
+2
+1
+5
+3
+5
+2
