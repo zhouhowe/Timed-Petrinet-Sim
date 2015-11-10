@@ -107,6 +107,8 @@ void fire( Transition t )
 				Place out_p = getOutputPlace(tr);
 				if( out_p != -1 )
 					schedule_event(out_p);
+				// Dangerous: change iteration counter
+				i=0;
 			} else {
 				backlogged_event_list.push(e);
 			}
