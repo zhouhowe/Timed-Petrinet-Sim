@@ -1,0 +1,3 @@
+12	# idle place
+24	# operation place
+8	# resource place

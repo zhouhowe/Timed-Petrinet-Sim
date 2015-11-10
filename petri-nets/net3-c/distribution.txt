@@ -1,0 +1,13 @@
+#Example 3: OpenLDAP (Controlled, Same as original net) 
+# Input 3: Mean Parameters for the Exponential Distributions in each Idle place and Operation place (don't care Resource places)
+# Places in the conventional order, i.e., p0, p1, p2, p3, p4, p5, p6, p7
+# All the parameters can be changed for test purposes
+#
+0.5
+1
+1
+2
+2
+1
+1
+2
